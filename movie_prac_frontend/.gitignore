@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+movie_prac_frontend/src/services/MovieApi.js
+
+
